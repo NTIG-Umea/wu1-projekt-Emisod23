@@ -31,6 +31,11 @@ nav {
   width: 100%;
 }
 
-.Bildterapihuset{
+.Bildterapihuset {
   margin-right: 10rem;
+}
+
+.Boka {
+  background-color: #e3ba34;
+  width: fit-content;
 }
