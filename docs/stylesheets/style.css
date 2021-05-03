@@ -6,6 +6,8 @@ html, body {
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 2rem;
+  background-image: linear-gradient(#FDE33A, #FD8A3A);
+  height: 100%;
 }
 
 .container {
