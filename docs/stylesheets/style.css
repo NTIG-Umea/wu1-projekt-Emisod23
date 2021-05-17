@@ -22,8 +22,10 @@ ul {
   margin-top: 0;
 }
 
-li {
-  margin-left: 1rem;
+a {
+  margin-left: 2rem;
+  text-decoration: none;
+  color:#131313;
 }
 
 nav {
@@ -38,6 +40,8 @@ nav {
 .Boka {
   background-color: #e3ba34;
   width: fit-content;
+  font-size: 5rem;
+  font-weight: bold;
 }
 
 .kritor {
