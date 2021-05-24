@@ -44,6 +44,7 @@ nav {
   width: fit-content;
   font-size: 5rem;
   font-weight: bold;
+  margin-bottom: 5rem;
 }
 
 .kritor {
@@ -71,4 +72,20 @@ h6 {
 
 h3 {
   margin-bottom: 1rem;
+}
+
+footer {
+  background-color:#FD8A3A;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  width: 100%;
+}
+
+.underrubrik {
+  font-size: 1.5rem;
+  margin-left: 2rem;
+}
+
+.hjälp {
+  font-size: 1rem;
 }
