@@ -1,14 +1,14 @@
 # Titel
 
-Författare och datum.
+Emil Söderlund 2021-05-24
 
 ## Inledning
 
-Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande.
+Syftet med arbetet var att förbättra min förståelse av html och skapa en kopia av en sida med en eller fler förbättringar. Detta skulle utföras genom att först välja en sida med rum för förbättring och sen göra en sketch/prototyp av hur den förbättrade versionen skulle se ut. Sen så kodar man i VSC och testar/validerar tills man är färdig.
 
 ## Bakgrund
 
-Redovisa arbetets olika delar. Så att läsaren förstår vad du gjort och hur.
+Först i planeringen så hade jag lite problem med att hitta en sida så eftersom jag inte ville göra det för kompliserat för mig shälv så tog jag en sida som jag hade redan gjort en prototyp på med baktanken att det jag hade ändrat där hade förbättrat några av originelsidans problem. Sen i kodningen så började jag med att kopiera den kod som fanns i github classroom och sen genom att följa min figma prototyp så skapade jag en desktop version av prototypen. Sen när jag kände mig nöjd med sidan så testade jag att validera html och css på validator och jigsaw. Först så hade jag lite stavfel på element som var lätt att rätta och css hade inga error att raportera men annars så vardet bara en annan typ av error och det var att jag hade a element för länkar i mina listor istället för li element. Nu detta skändes inte riktigt som ett problem eftersom sidan i sig fungerade ändå och när jag tästade validera med wave så hade den inga problem med det så jag valde att ignorera det.
 
 Använd gärna bilder för att illustrera.
 
